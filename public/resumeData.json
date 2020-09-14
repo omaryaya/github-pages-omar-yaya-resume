@@ -1,0 +1,130 @@
+{
+  "main": {
+    "name":"Omar YAYA",
+    "occupation":"Software Engineer | Certified ScrumMaster®",
+    "description":"Experienced Software Development Engineer, Certified ScrumMaster® (CSM®), and a compulsive problem-solver with a Bachelor of Science (B.Sc.) in Computer & Communications Engineering from Cairo University.",
+    "image":"omar_yaya_picture.jpg",
+    "bio":"Experienced Software Development Engineer, Certified ScrumMaster® (CSM®), and a compulsive problem-solver with a Bachelor of Science (B.Sc.) in Computer & Communications Engineering from Cairo University.",
+    "contactmessage":"Feel free to shoot me an email.",
+    "email": "omar.yaya@protonmail.com",
+    "phone": "+420 777 56 57 51",
+    "address":{
+      "city":"Prague"
+    },
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/omaryaya/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/yayaa.omar/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/omaryaya",
+        "className":"fa fa-github"
+      }
+      
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Cairo University",
+        "degree":"Bachelor's Degree (B.Sc.)",
+        "graduated":"May 2016",
+        "description":"B. Sc. in Computer and Communications Engineering"
+      }
+    ],
+    "work":[
+      {
+        "company":"Broadcom Inc.",
+        "location": "Prague, Czech Republic",
+        "url": "https://broadcom.com",
+        "title":"Full-Stack Software Engineer",
+        "years":"May 2019 - Present",
+        "description": [
+          "Full-stack (REACT/Spring/PostgreSQL) software engineer working on the BlazeMeter Continuous Testing Platform.",
+          "Developed RESTful API endpoints to extend back-end features.",
+          "Implemented reusable UI components in React that were shared across the website.",
+          "Maintained codebase, fixed bugs on front & back ends, and reviewed & approved pull requests.",
+          "Worked closely with architects and product owners on delivering user stories and meeting customers’ expectations."
+
+        ]
+        
+      },
+      {
+        "company":"Valeo",
+        "location": "Cairo, Egypt",
+        "url": "https://valeo.com",
+        "title":"Software Engineer",
+        "years":"February 2017 - May 2019",
+        "description":[
+          "Software engineer working in the automation & tooling team and member of the open-source review board.",
+          "Developed and maintained desktop and web applications designed to facilitate automation.",
+          "Led an internal campaign to advertise the team’s services to the company, leading to a 30% increase in requests.",
+          "The primary reviewer for the open-source compliance analysis on Valeo’s projects worldwide."
+        ]
+      },
+      {
+        "company":"Orange Business Services",
+        "location": "Prague, Czech Republic",
+        "url": "https://orange-business.com",
+        "title":"Bilingual Cybersecurity Support Engineer",
+        "years":"November 2016 - February 2017",
+        "description":[
+          "Managed network security devices (Firewalls, Proxies) and Messaging solutions (MS Exchange, SMTP relays).",
+          "Took the initiative to automate time-consuming manual processes despite being in a non-development role. Developed apps still in-use 4 years after I left."
+
+        ]
+      }
+    ],
+    "skills":[
+      {
+        "name":"Java/JavaScript/TypeScript/C++/C#",
+        "level":"100%"
+      },
+      {
+        "name":"Spring Framework",
+        "level":"100%"
+      },
+      {
+        "name":"React",
+        "level":"100%"
+      },
+      {
+        "name":"Spring Boot/Hibernate/JPA",
+        "level":"100%"
+      },
+      {
+        "name":"Git/Github",
+        "level":"100%"
+      },
+      {
+        "name":"NodeJS/HTTPS",
+        "level":"100%"
+      },
+      {
+        "name":"SQL/Database Design",
+        "level":"55%"
+      }
+    ]
+  },
+  
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
