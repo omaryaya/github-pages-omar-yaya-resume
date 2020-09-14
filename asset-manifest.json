@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github-pages-omar-yaya-resume/static/css/main.5facb584.chunk.css",
+    "main.js": "/github-pages-omar-yaya-resume/static/js/main.7e4d3d7b.chunk.js",
+    "main.js.map": "/github-pages-omar-yaya-resume/static/js/main.7e4d3d7b.chunk.js.map",
+    "runtime-main.js": "/github-pages-omar-yaya-resume/static/js/runtime-main.b0e1db72.js",
+    "runtime-main.js.map": "/github-pages-omar-yaya-resume/static/js/runtime-main.b0e1db72.js.map",
+    "static/js/2.2c422552.chunk.js": "/github-pages-omar-yaya-resume/static/js/2.2c422552.chunk.js",
+    "static/js/2.2c422552.chunk.js.map": "/github-pages-omar-yaya-resume/static/js/2.2c422552.chunk.js.map",
+    "index.html": "/github-pages-omar-yaya-resume/index.html",
+    "precache-manifest.8bf2d326a320001ff1b2621d0b2a3b3b.js": "/github-pages-omar-yaya-resume/precache-manifest.8bf2d326a320001ff1b2621d0b2a3b3b.js",
+    "service-worker.js": "/github-pages-omar-yaya-resume/service-worker.js",
+    "static/css/main.5facb584.chunk.css.map": "/github-pages-omar-yaya-resume/static/css/main.5facb584.chunk.css.map",
+    "static/js/2.2c422552.chunk.js.LICENSE.txt": "/github-pages-omar-yaya-resume/static/js/2.2c422552.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0e1db72.js",
+    "static/js/2.2c422552.chunk.js",
+    "static/css/main.5facb584.chunk.css",
+    "static/js/main.7e4d3d7b.chunk.js"
+  ]
+}
