@@ -6,23 +6,30 @@ class Resume extends Component {
     if (this.props.data) {
 
       var education = this.props.data.education.map(function (education) {
-        return <div key={education.school}><h3>{education.school}</h3>
-          <p className="info">{education.degree} <span>&bull;</span><em className="date">{education.graduated}</em></p>
-          <p>{education.description}</p></div>
+        return <div key={education.school}>
+          <h3>{education.school}</h3>
+          <p className="info">
+            {education.degree} <span>&bull;
+              </span><em className="date">{education.graduated}</em>
+            </p>
+          <p>{education.description}</p>
+          </div>
       })
       var work = this.props.data.work.map(function (work) {
-        
-        var duties = work.description.map((point, id) => {return <p key={id}>• {point}</p>});
-        
+
+        var duties = work.description.map((point, id) => { return <p key={id}>• {point}</p> });
+
         return <div key={work.company}><h3><a href={work.url}>{work.company}</a></h3>
           <p className="info">{work.title}<span>&bull;</span> <em className="date">{work.years}</em></p>
           {/* <p>{work.description}</p> */}
-          
+
           {duties}
         </div>
       })
       var skills = this.props.data.skills.map(function (skills) {
-        return <li key={skills.name}><em>{skills.name}</em></li>
+        return <li key={skills.name}>
+          <em>{skills.name}</em>
+          </li>
       })
     }
 
@@ -50,10 +57,10 @@ class Resume extends Component {
 
           <div className="nine columns main-col">
             {/* {skills} */}
-              <ul className="skills">
-                {skills}
-              </ul>
-            
+            <ul className="skills">
+              {skills}
+            </ul>
+
           </div>
         </div>
 
